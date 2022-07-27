@@ -18,7 +18,7 @@
     <Image Include="small.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="DrawTesting2.ico">
+    <Image Include="BezierCurve.ico">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>
